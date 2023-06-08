@@ -89,13 +89,14 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Shopping Website</span>
+            <span style="font-size:64px;margin-right:10px;color:black">Fedral Website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
                 <li><a href="#product">Product</a></li>
                 <li><a href="#pricing">Pricing</a></li>
                 <li><a href="#contact">Contact</a></li>
+		<li><a href="#contact">Carrear</a></li>
             </ul>
 		
         </header>
