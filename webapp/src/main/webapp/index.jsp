@@ -87,8 +87,8 @@ h1{
 
 <body>
     
-    <section id="home">
-        <header>
+    <section id="home" style="background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fjail&psig=AOvVaw2izcst_liQKD07su5Y1MBe&ust=1686320399791000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKie0Znvs_8CFQAAAAAdAAAAABAE');">
+    <header>
             <span style="font-size:64px;margin-right:10px;color:black">Fedral Website</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
